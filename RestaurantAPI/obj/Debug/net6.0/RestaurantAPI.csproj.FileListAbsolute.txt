@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\React-js-Master-Detail-CRUD-with-Asp.Net-Web-API\RestaurantAPI\obj\Debug\net6.0\RestaurantAPI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\React-js-Master-Detail-CRUD-with-Asp.Net-Web-API\RestaurantAPI\obj\Debug\net6.0\RestaurantAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\React-js-Master-Detail-CRUD-with-Asp.Net-Web-API\RestaurantAPI\obj\Debug\net6.0\RestaurantAPI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\React-js-Master-Detail-CRUD-with-Asp.Net-Web-API\RestaurantAPI\obj\Debug\net6.0\RestaurantAPI.AssemblyInfo.cs
+C:\Users\User\Desktop\React-js-Master-Detail-CRUD-with-Asp.Net-Web-API\RestaurantAPI\obj\Debug\net6.0\RestaurantAPI.csproj.CoreCompileInputs.cache

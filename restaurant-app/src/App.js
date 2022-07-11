@@ -8,9 +8,9 @@ function App() {
     <Container maxWidth="md">
       <Typography
       gutterBottom
-      variant="h2"
-      align ="center">
-        Restaurant App
+      variant="h3"
+      align ="start">
+       Welcome our Restaurant
       </Typography>
       <Order />
     </Container>
