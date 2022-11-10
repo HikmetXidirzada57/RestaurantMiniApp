@@ -1,20 +1,22 @@
-import logo from './logo.svg';
 import './App.css';
 import { Container, Typography } from "@material-ui/core";
 import Order from "./components/Order";
 
 function App() {
   return (
-    <Container maxWidth="md">
-      <Typography
-      gutterBottom
-      variant="h3"
-      align ="start">
-       Welcome our Restaurant
-      </Typography>
-      <Order />
-    </Container>
-  );
+    <div style={{background:"#92EFFD"}}>
+      <Container maxWidth="lg">
+        <Typography
+        gutterBottom
+        variant="h6"
+        align ="center">
+         Welcome my Restaurant
+        </Typography>
+        <Order />
+      </Container>
+  
+    </div>
+    );
 }
 
 export default App;
